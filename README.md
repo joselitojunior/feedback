@@ -38,7 +38,7 @@ into some of the older threads.
 ---
 
 ### Twitter
-j
+
 If you have something quick and easy, just ping me on Twitter. 140 characters
 makes everyone more efficient. I'm [@joselitojunior1](https://twitter.com/joselitojunior1) on
 Twitter.
